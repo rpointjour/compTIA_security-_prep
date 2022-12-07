@@ -1,7 +1,7 @@
 # CompTIA Security+ Certification
 Fundamental certication for foundation-level secuirty skills and knowledge.
 
-## SY0-501: Exam Objectives (Domain + Percentage of Exam)
+## SY0-601: Exam Objectives (Domain + Percentage of Exam)
 - Threats, Attacks and Vulnerabilities 
     -21%
 - Technologies and Tools 
