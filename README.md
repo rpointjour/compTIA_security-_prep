@@ -1,71 +1,152 @@
-# Getting Started with Create React App
+# CompTIASecurity+_prep
+- Intro to Network Devices (part 1)  [x] 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- Intro to Network Devices (part 2)
 
-## Available Scripts
+- Networking Services and Applications (part 1)
 
-In the project directory, you can run:
+ - Networking Services and Applications (part 2)
 
-### `npm start`
+ - DHCP in the Network
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ - Introduction to the DNS Service
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ - Introducing Network Address Translation
 
-### `npm test`
+ - WAN Technologies (part 1)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ - WAN Technologies (part 2)
 
-### `npm run build`
+ - WAN Technologies (part 3)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ - WAN Technologies (part 4)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ - Network Cabling (part 1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ - Network Cabling (part 2)
 
-### `npm run eject`
+ - Network Cabling (part 3)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ - Network Topologies
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+ - Network Infrastructure Implementations
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+ - Introduction to IPv4 (part 1)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ - Introduction to IPv4 (part 2)
 
-## Learn More
+ - Introduction to IPv6
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ - Special IP Networking Concepts
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+ - Introduction to Routing Concepts (part 1)
 
-### Code Splitting
+ - Introduction to Routing Concepts (part 2)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+ - Introduction to Routing Protocols
 
-### Analyzing the Bundle Size
+ - Basic Elements of Unified Communications
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ - Virtualization Technologies
 
-### Making a Progressive Web App
+ - Storage Area Networks
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+ - Basic Cloud Concepts
 
-### Advanced Configuration
+ - Implementing a Basic Network
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+ - Analyzing Monitoring Reports
 
-### Deployment
+ - Network Monitoring (part 1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ - Network Monitoring (part 2)
 
-### `npm run build` fails to minify
+ - Supporting Configuration Management (part 1)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# compTIA_security+_prep
+ - Supporting Configuration Management (part 2)
+
+ - The Importance of Network Segmentation
+
+ - Applying Patches and Updates
+
+ - Configuring Switches (part 1)
+
+ - Configuring Switches (part 2)
+
+ - Wireless LAN Infrastructure (part 1)
+
+ - Wireless LAN Infrastructure (part 2)
+
+ - Risk and Security Related Concepts
+
+ - Common Network Vulnerabilities
+
+ - Common Network Threats (part 1)
+
+ - Common Network Threats (part 2)
+
+ - Network Hardening Techniques (part 1)
+
+ - Network Hardening Techniques (part 2)
+
+ - Network Hardening Techniques (part 3)
+
+ - Physical Network Security Control
+
+ - Firewall Basics
+
+ - Network Access Control
+
+ - Basic Forensic Concepts
+
+ - Network Troubleshooting Methodology
+
+ - Troubleshooting Connectivity with Utilities
+
+ - Troubleshooting Connectivity with Hardware
+
+ - Troubleshooting Wireless Networks (part 1)
+
+ - Troubleshooting Wireless Networks (part 2)
+
+ - Troubleshooting Copper Wire Networks (part 1)
+
+ - Troubleshooting Copper Wire Networks (part 2)
+
+ - Troubleshooting Fiber Cable Networks
+
+ - Network Troubleshooting Common Network Issues
+
+ - Common Network Security Issues
+
+ - Common WAN Components and Issues
+
+ - The OSI Networking Reference Model
+
+ - The Transport Layer Plus ICMP
+
+ - Basic Network Concepts (part 1)
+
+ - Basic Network Concepts (part 2)
+
+ - Basic Network Concepts (part 3)
+
+ - Introduction to Wireless Network Standards
+
+ - Introduction to Wired Network Standards
+
+ - Security Policies and other Documents
+
+ - Introduction to Safety Practices (part 1)
+
+ - Introduction to Safety Practices (part 2)
+
+ - Rack and Power Management
+
+ - Cable Management
+
+ - Basics of Change Management
+
+ - Common Networking Protocols (part 1)
+
+ - Common Networking Protocols (part 2)
