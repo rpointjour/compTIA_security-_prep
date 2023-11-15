@@ -156,3 +156,68 @@
 - Common Networking Protocols (part 1)
 
 - Common Networking Protocols (part 2)
+#
+# Intro to Network Devices (part 1)
+- Layer 1 devices
+	- Physical Layer
+- Layer 2 devices
+	- Data Link
+- Layer 3 devices
+	- Network
+
+---
+**Layer 1 Devices:**
+
+- Analog Modem
+	- 
+	- Were developed to take the digital signal coming from a digital node and convert it to an analog signal (Wire)
+	- Developed to also create connections between network segments via PSTN(Public Switched Telephone Network) using POTS(Plain Old Telephone System)
+	- They provide for a SINGLE connection to a network
+	- "Modulator/Demodulator"
+	- Only concerned about the WIRE
+	- Resides on Layer 1 (Physical Layer) of OSI Model
+		- "Doesn't care where the signal comes from. Just does its job!"
+- The Hub
+	- 
+	- Functions as a concentrator/repeater
+		- "Doesn't care where signal comes from or where it's going!"
+	- Takes electrical signal that arrives on a port and replicates that signal out all of the other ports
+	- Few ports/many ports
+	- "Not very common in modern networking"
+---
+**Layer 2 Devices:**
+
+- Switch
+	- 
+	- Utilizes ASIC(Application-specific Integrated Circuit) chip!
+	- The ASIC chip has specific programming that allows the switch to learn when a device is on the network and which parts it is connected to via device's Layer 2 MAC address
+	- Few/many ports
+	- Can be very simple/highly complex and programmable
+	- Will only communicate with local network devices!
+- Wireless Access Point (WAP)
+	- 
+	- Specific type of network bridge that connects ("bridges")
+		-  Wireless network segments with wired network segments
+	- Most common WAP Bridges:
+		- 802.11 Wireless Network Segments with 802.3 Ethernet Network Segments
+	- Only communicates with local network devices!
+---
+**Layer 3 Devices:**
+
+- Multilayer Switch (MLS)
+	- 
+	- Provides normal Layer 2 network switching services, but also provides Layer 3 or higher OSI model services
+	- Most common MLS is a Layer 3 switch
+		- Utilizes ASIC chip for switching and is programmed to handle routing functions
+		- Allows device to communicate and pass data to non-local network devices
+	- Highly programmable and complex network device
+	- Few/many ports
+	- "Too expensive for small offices & home office networks"
+		- Mostly used by Enterprise Local Area Networks
+- Router
+	- 
+	- MOST common network device for connecting different networks together utilizing OSI model's L3 logical network information
+	- Uses software programming for decision making as compared to the switch's ASIC chip
+	- Uses this programming to keep track of different networks and what it considers to be the best possible route to reach those networks
+	- Can communicate with BOTH local and non-local network devices!
+	- In most cases it has fewer ports than a switch
